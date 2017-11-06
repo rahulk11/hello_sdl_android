@@ -278,7 +278,7 @@ public class SdlService extends Service implements IProxyListenerALM {
 
         Choice choice1 = new Choice();
         choice1.setChoiceID(uniqueChoiceID++);
-        choice1.setMenuName("");
+        choice1.setMenuName("chapter 1");
 
         Choice choice2 = new Choice();
         choice2.setChoiceID(uniqueChoiceID++);
@@ -604,10 +604,17 @@ public class SdlService extends Service implements IProxyListenerALM {
 
     @Override
     public void onCreateInteractionChoiceSetResponse(CreateInteractionChoiceSetResponse response) {
-        Log.e(TAG, "CreateInteractionChoiceSet response from SDL: "
+	if(response.getSuccess()){
+		Log.i(TAG, "CreateInteractionChoiceSet response from SDL: "
+                + response.getResultCode().name()
+                + ", Info: " + response.getInfo());
+	} else{
+		Log.e(TAG, "CreateInteractionChoiceSet response from SDL: "
                 + response.getResultCode().name()
                 + ", Success: "+ response.getSuccess()
                 + ", Info: " + response.getInfo());
+	}
+        
     }
 
     @Override
