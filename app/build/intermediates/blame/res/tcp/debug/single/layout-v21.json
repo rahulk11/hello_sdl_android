@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\_rahul_workarea_\\Android\\hello_sdl_android-master\\hello_sdl_android\\app\\build\\intermediates\\res\\merged\\tcp\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\rahul\\.android\\build-cache\\d05166774151a8668dc27c206bd40b4b28e3ef18\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\_rahul_workarea_\\Android\\hello_sdl_android-master\\hello_sdl_android\\app\\build\\intermediates\\res\\merged\\tcp\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\rahul\\.android\\build-cache\\d05166774151a8668dc27c206bd40b4b28e3ef18\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\_rahul_workarea_\\Android\\hello_sdl_android-master\\hello_sdl_android\\app\\build\\intermediates\\res\\merged\\tcp\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\rahul\\.android\\build-cache\\d05166774151a8668dc27c206bd40b4b28e3ef18\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\_rahul_workarea_\\Android\\hello_sdl_android-master\\hello_sdl_android\\app\\build\\intermediates\\res\\merged\\tcp\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\rahul\\.android\\build-cache\\d05166774151a8668dc27c206bd40b4b28e3ef18\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\_rahul_workarea_\\Android\\hello_sdl_android-master\\hello_sdl_android\\app\\build\\intermediates\\incremental\\mergeTcpDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "C:\\Users\\rahul\\.android\\build-cache\\d05166774151a8668dc27c206bd40b4b28e3ef18\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]

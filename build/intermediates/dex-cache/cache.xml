@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\_rahul_workarea_\Android\hello_sdl_android-master\hello_sdl_android\sdl_android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1d272b8a20d68f6b65ec107f40b85a4c779f98a">
+        <dex dex="D:\_rahul_workarea_\Android\hello_sdl_android-master\hello_sdl_android\app\build\intermediates\pre-dexed\usb\debug\classes_a432864868b45c62d55027eadea0026e625e5ab8.jar" />
+    </item>
+
+</items>

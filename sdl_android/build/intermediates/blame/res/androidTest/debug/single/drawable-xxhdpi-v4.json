@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\_rahul_workarea_\\Android\\hello_sdl_android-master\\hello_sdl_android\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\sdl_tray_icon.png",
+        "source": "D:\\_rahul_workarea_\\Android\\hello_sdl_android-master\\hello_sdl_android\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\sdl_tray_icon.png"
+    },
+    {
+        "merged": "D:\\_rahul_workarea_\\Android\\hello_sdl_android-master\\hello_sdl_android\\sdl_android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_sdl.png",
+        "source": "D:\\_rahul_workarea_\\Android\\hello_sdl_android-master\\hello_sdl_android\\sdl_android\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_sdl.png"
+    }
+]
